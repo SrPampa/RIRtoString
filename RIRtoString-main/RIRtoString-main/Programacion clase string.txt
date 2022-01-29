@@ -1,0 +1,21 @@
+-----
+String join
+
+String format
+
+String contains
+
+String trim
+
+String idexOf()
+
+String startsWith()
+
+--- Métodos de Ruth ---
+
+String.indent(int n);
+String.replace(char, char);
+String.repeat(int n);
+String.substring(index begin);
+String.substring(index begin, index end);
+String.toCharArray();
