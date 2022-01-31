@@ -1,4 +1,4 @@
-package venancio.dam.String;
+package com.venancio.dam.proyectoRIRtoString.explicaRuth;
 
 public class Substring {
 
