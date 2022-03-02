@@ -33,4 +33,9 @@ public interface PilaInterface <T>{
 	 */
 	public int size();
 	
+	/**
+	 * Método para mostrar por pantalla la pila
+	 */
+	public void print();
+	
 }
