@@ -1,7 +1,17 @@
 package com.venancio.dam.proyectoRIRtoString;
 
+import java.util.Random;
+
 public class Comentarios {
 
+	public static void main(String[] args) {
+
+		Random r = new Random();
+		int numero = (int) (Math.random()*94+7);
+		System.out.println(r.nextInt(94) + 7);
+		System.out.println((int) (Math.random()*94+7));
+
+	}
 //	--- Métodos de Ivy ---
 //	
 //	String join

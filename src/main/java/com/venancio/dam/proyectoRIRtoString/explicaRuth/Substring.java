@@ -13,5 +13,6 @@ public class Substring {
 
 		nombre = apenom.substring(0, 4);
 		System.out.println("Nombre: " + nombre);
+		
 	}
 }

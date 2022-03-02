@@ -18,6 +18,5 @@ public class Matches {
 		
 		System.out.println(resultado + (texto.matches("(.*) utiles")?"SI":"NO")); //detecta los acentos
 	
-		
 	}
 }

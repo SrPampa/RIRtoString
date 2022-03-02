@@ -10,5 +10,9 @@ public class Replace {
 		System.out.println("Cadena modificada: \t" + cadena.replace('-', ' '));
 		
 		
+		
+		System.out.println("Cadena original: \t" + cadena);
+		System.out.println("Cadena modificada: \t" + cadena.replace("Programación", "Lenguaje de Marcas"));
+		
 	}
 }

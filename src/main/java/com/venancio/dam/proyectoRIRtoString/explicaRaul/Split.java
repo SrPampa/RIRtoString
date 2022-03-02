@@ -18,5 +18,14 @@ public class Split {
 			System.out.println(division);
 
 	}
-
+	public static void mostrarArray(int[][] listado, String msg) {
+		System.out.println(msg);
+		
+		for (int i = 0; i < listado.length; i++) {
+			for (int j = 0; j < listado[i].length; j++) {				
+				System.out.print(listado[i][j] + " ");
+			}
+			System.out.println();
+		}
+	}
 }
