@@ -19,23 +19,23 @@ public class Algoritmos {
 			System.out.print(i + " ");
 		}
 
-		System.out.println("\nBurbuja:");
-		bubble(lista2);
-		for (Integer num : lista2) {
-			System.out.print(num + " ");
-		}
+//		System.out.println("\nBurbuja:");
+//		bubble(lista2);
+//		for (Integer num : lista2) {
+//			System.out.print(num + " ");
+//		}
 
-		System.out.println("\nInserción:");
-		insertion(lista2);
-		for (Integer num : lista2) {
-			System.out.print(num + " ");
-		}
+//		System.out.println("\nInserción:");
+//		insertion(lista2);
+//		for (Integer num : lista2) {
+//			System.out.print(num + " ");
+//		}
 
-		System.out.println("\nSelección:");
-		selection(lista2);
-		for (Integer num : lista2) {
-			System.out.print(num + " ");
-		}
+//		System.out.println("\nSelección:");
+//		selection(lista2);
+//		for (Integer num : lista2) {
+//			System.out.print(num + " ");
+//		}
 
 		System.out.println("\nPivote:");
 		quicksortLigth(lista2);
