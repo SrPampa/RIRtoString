@@ -109,7 +109,7 @@ public class Algoritmos2 {
 
 	}
 
-	public static Integer[] crearLista() {
+	public static Integer [] crearLista() {
 
 		Random r = new Random();
 		int dim = (int) (r.nextInt(20) + 10);
